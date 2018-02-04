@@ -1,0 +1,22 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "multi-user chat application",
+  "main": "chatapp.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtahirofficial/chat-application.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Muhammad Tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtahirofficial/chat-application/issues"
+  },
+  "homepage": "https://github.com/mtahirofficial/chat-application#readme"
+}
